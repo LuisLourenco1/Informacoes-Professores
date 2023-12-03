@@ -1,45 +1,45 @@
-Nome,Telefone,Lattes,Email
-Alan Demétrius Baria Valejo,,http://lattes.cnpq.br/9546164790189830,alanvalejo@ufscar.br
-Alexandre Luis Magalhães Levada,3306-6602,http://lattes.cnpq.br/3341441596395463,alexandre.levada@ufscar.br
-Andre Ricardo Backes,,http://lattes.cnpq.br/8590140337571249,andrebackes@ufscar.br
-André Takeshi Endo,,http://lattes.cnpq.br/4221336619791961,andreendo@ufscar.br
-Auri Marcelo Rizzo Vincenzi,3351-8612,http://lattes.cnpq.br/0611351138131709,auri@ufscar.br
-Cesar Henrique Comin,3351-8598,http://lattes.cnpq.br/9563440403120931,comin@ufscar.br
-Daniel Lucrédio,3351-8611,http://lattes.cnpq.br/9090396559596221,daniel.lucredio@ufscar.br
-Delano Medeiros Beder,3306-6603,http://lattes.cnpq.br/5845245549777383,delano@dc.ufscar.br
-Edilson Reis Rodrigues Kato,3351-8591,http://lattes.cnpq.br/8517698122676145,kato@ufscar.br
-Ednaldo Brigante Pizzolato,3351-8588,http://lattes.cnpq.br/2821982735490884,ednaldo@dc.ufscar.br
-Emerson Carlos Pedrino,3351-8613,http://lattes.cnpq.br/6481363465527189,emerson@dc.ufscar.br
-Fabiano Cutigi Ferrari,3351-8271,http://lattes.cnpq.br/3154345471250570,fcferrari@ufscar.br
-Fredy João Valente,3351-8576,http://lattes.cnpq.br/8165518000687142,fredy@ufscar.br
-Helena de Medeiros Caseli,3351-8584,http://lattes.cnpq.br/6608582057810385,helenacaseli@ufscar.br
-Helio Crestana Guardia,3351-8619,http://lattes.cnpq.br/1780902767520967,helio@dc.ufscar.br
-Heloísa de Arruda Camargo,3351-8620,http://lattes.cnpq.br/0487231065057783,heloisa@dc.ufscar.br
-Hermes Senger,3351-8593,http://lattes.cnpq.br/3691742159298316,hermes@ufscar.br
-Jander Moreira,3351-8585,http://lattes.cnpq.br/7638816418156415,jander@ufscar.br
-Joice Lee Otsuka,3351-8597,http://lattes.cnpq.br/8235968002513082,joice@dc.ufscar.br
-Kelen Cristiane Teixeira Vivaldini,3351-8257,http://lattes.cnpq.br/5245409138233148,vivaldini@ufscar.br
-Luciano de Oliveira Neris,3351-8586,http://lattes.cnpq.br/2185238443038579,luciano@dc.ufscar.br
-Marcela Xavier Ribeiro,3351-8581,http://lattes.cnpq.br/0300141044144026,marcela@dc.ufscar.br
-Marcio Merino Fernandes,3351-9491,http://lattes.cnpq.br/7278634019537967,marcio@dc.ufscar.br
-Marilde Terezinha Prado Santos,3351-8574,http://lattes.cnpq.br/9826026025118073,marilde.santos@ufscar.br
-Mauricio Fernandes Figueiredo,3351-8595,http://lattes.cnpq.br/4514898499279696,mauricio@ufscar.br
-Murillo Rodrigo Petrucelli Homem,3306-6604,http://lattes.cnpq.br/4099700446922080,murillo@ufscar.br
-Murilo Coelho Naldi,3351-8621,http://lattes.cnpq.br/0573662728816861,naldi@ufscar.br
-Mário César San Felice,3351-8627,http://lattes.cnpq.br/0452415038078829,felice@ufscar.br
-Orides Morandin Junior,3351-8596,http://lattes.cnpq.br/4192845106907956,orides@ufscar.br
-Paulo Matias,3351-8590,http://lattes.cnpq.br/3792055796261017,matias@ufscar.br
-Pedro Henrique Bugatti,,http://lattes.cnpq.br/2177467029991118,pedrobugatti@ufscar.br
-Priscila Tiemi Maeda Saito,,http://lattes.cnpq.br/6652293216938994,priscilasaito@ufscar.br
-Renato Bueno,3351-9497,http://lattes.cnpq.br/7189857417959804,renato@ufscar.br
-Ricardo Cerri,3351-8609,http://lattes.cnpq.br/6266519868438512,cerri@ufscar.br
-Ricardo José Ferrari,3306-6607,http://lattes.cnpq.br/8460861175344306,rferrari@ufscar.br
-Ricardo Menotti,3306-6606,http://lattes.cnpq.br/2509766431540422,menotti@ufscar.br
-Ricardo Rodrigues Ciferri,3351-8589,http://lattes.cnpq.br/8382221522817502,rrc@ufscar.br
-Roberto Ferrari Junior,3351-8583,http://lattes.cnpq.br/1581806209106850,ferrari@ufscar.br
-Roberto Santos Inoue,3351-8607,http://lattes.cnpq.br/6221209121565990,rsinoue@ufscar.br
-Sandra Abib,3351-8622,http://lattes.cnpq.br/5951104963045952,sandra@ufscar.br
-Sergio Donizetti Zorzo,3351-8610,http://lattes.cnpq.br/2523715806470871,zorzo@ufscar.br
-Valter Vieira de Camargo,3351-8616,http://lattes.cnpq.br/6809743774407662,valtervcamargo@ufscar.br
-Vânia Paula de Almeida Neris,3351-9493,http://lattes.cnpq.br/0268728255033469,vania@dc.ufscar.br
-Wanderley Lopes de Souza,3351-8599,http://lattes.cnpq.br/3742302894743620,desouza@ufscar.br
+Nome,Telefone,Lattes,Email,RemuneracaoBasicaBruta,RemuneracaoBasicaLiquida
+Alan Demétrius Baria Valejo,,http://lattes.cnpq.br/9546164790189830,alanvalejo@ufscar.br,"11.005,73","8.310,10"
+Alexandre Luis Magalhães Levada,3306-6602,http://lattes.cnpq.br/3341441596395463,alexandre.levada@ufscar.br,"14.468,14","9.983,48"
+Andre Ricardo Backes,,http://lattes.cnpq.br/8590140337571249,andrebackes@ufscar.br,"19.560,93","14.200,95"
+André Takeshi Endo,,http://lattes.cnpq.br/4221336619791961,andreendo@ufscar.br,"14.468,14","11.005,56"
+Auri Marcelo Rizzo Vincenzi,3351-8612,http://lattes.cnpq.br/0611351138131709,auri@ufscar.br,"20.343,37","13.790,51"
+Cesar Henrique Comin,3351-8598,http://lattes.cnpq.br/9563440403120931,comin@ufscar.br,"13.376,61","10.084,41"
+Daniel Lucrédio,3351-8611,http://lattes.cnpq.br/9090396559596221,daniel.lucredio@ufscar.br,"19.560,93","13.156,85"
+Delano Medeiros Beder,3306-6603,http://lattes.cnpq.br/5845245549777383,delano@dc.ufscar.br,"19.560,93","13.066,52"
+Edilson Reis Rodrigues Kato,3351-8591,http://lattes.cnpq.br/8517698122676145,kato@ufscar.br,"20.343,37","13.540,20"
+Ednaldo Brigante Pizzolato,3351-8588,http://lattes.cnpq.br/2821982735490884,ednaldo@dc.ufscar.br,"20.911,09","13.883,88"
+Emerson Carlos Pedrino,3351-8613,http://lattes.cnpq.br/6481363465527189,emerson@dc.ufscar.br,"21.005,71","14.281,34"
+Fabiano Cutigi Ferrari,3351-8271,http://lattes.cnpq.br/3154345471250570,fcferrari@ufscar.br,"19.560,93","13.170,80"
+Fredy João Valente,3351-8576,http://lattes.cnpq.br/8165518000687142,fredy@ufscar.br,"14.983,36","11.462,33"
+Helena de Medeiros Caseli,3351-8584,http://lattes.cnpq.br/6608582057810385,helenacaseli@ufscar.br,"21.415,04","14.317,16"
+Helio Crestana Guardia,3351-8619,http://lattes.cnpq.br/1780902767520967,helio@dc.ufscar.br,"20.197,79","13.452,06"
+Heloísa de Arruda Camargo,3351-8620,http://lattes.cnpq.br/0487231065057783,heloisa@dc.ufscar.br,"24.272,53","18.167,17"
+Hermes Senger,3351-8593,http://lattes.cnpq.br/3691742159298316,hermes@ufscar.br,"20.343,37","13.592,33"
+Jander Moreira,3351-8585,http://lattes.cnpq.br/7638816418156415,jander@ufscar.br,"21.005,71","14.045,44"
+Joice Lee Otsuka,3351-8597,http://lattes.cnpq.br/8235968002513082,joice@dc.ufscar.br,"20.343,37","13.540,20"
+Kelen Cristiane Teixeira Vivaldini,3351-8257,http://lattes.cnpq.br/5245409138233148,vivaldini@ufscar.br,"13.376,61","10.254,56"
+Luciano de Oliveira Neris,3351-8586,http://lattes.cnpq.br/2185238443038579,luciano@dc.ufscar.br,"13.911,69","10.484,85"
+Marcela Xavier Ribeiro,3351-8581,http://lattes.cnpq.br/0300141044144026,marcela@dc.ufscar.br,"21.058,72","14.174,12"
+Marcio Merino Fernandes,3351-9491,http://lattes.cnpq.br/7278634019537967,marcio@dc.ufscar.br,"20.343,37","13.644,47"
+Marilde Terezinha Prado Santos,3351-8574,http://lattes.cnpq.br/9826026025118073,marilde.santos@ufscar.br,"19.560,93","13.066,52"
+Mauricio Fernandes Figueiredo,3351-8595,http://lattes.cnpq.br/4514898499279696,mauricio@ufscar.br,"18.808,60","12.567,29"
+Murillo Rodrigo Petrucelli Homem,3306-6604,http://lattes.cnpq.br/4099700446922080,murillo@ufscar.br,"18.085,19","12.173,15"
+Murilo Coelho Naldi,3351-8621,http://lattes.cnpq.br/0573662728816861,naldi@ufscar.br,"19.560,93","14.740,10"
+Mário César San Felice,3351-8627,http://lattes.cnpq.br/0452415038078829,felice@ufscar.br,"13.376,61","10.136,54"
+Orides Morandin Junior,3351-8596,http://lattes.cnpq.br/4192845106907956,orides@ufscar.br,"18.421,65","12.376,84"
+Paulo Matias,3351-8590,http://lattes.cnpq.br/3792055796261017,matias@ufscar.br,"14.091,96","10.603,04"
+Pedro Henrique Bugatti,,http://lattes.cnpq.br/2177467029991118,pedrobugatti@ufscar.br,"18.808,60","12.663,22"
+Priscila Tiemi Maeda Saito,,http://lattes.cnpq.br/6652293216938994,priscilasaito@ufscar.br,"18.085,19","12.225,29"
+Renato Bueno,3351-9497,http://lattes.cnpq.br/7189857417959804,renato@ufscar.br,"19.560,93","13.258,25"
+Ricardo Cerri,3351-8609,http://lattes.cnpq.br/6266519868438512,cerri@ufscar.br,"14.983,36","11.399,31"
+Ricardo José Ferrari,3306-6607,http://lattes.cnpq.br/8460861175344306,rferrari@ufscar.br,"19.560,93","13.331,17"
+Ricardo Menotti,3306-6606,http://lattes.cnpq.br/2509766431540422,menotti@ufscar.br,"18.085,19","12.329,56"
+Ricardo Rodrigues Ciferri,3351-8589,http://lattes.cnpq.br/8382221522817502,rrc@ufscar.br,"20.343,37","13.540,20"
+Roberto Ferrari Junior,3351-8583,http://lattes.cnpq.br/1581806209106850,ferrari@ufscar.br,"21.194,95","14.055,72"
+Roberto Santos Inoue,3351-8607,http://lattes.cnpq.br/6221209121565990,rsinoue@ufscar.br,"18.808,60","14.377,48"
+Sandra Abib,3351-8622,http://lattes.cnpq.br/5951104963045952,sandra@ufscar.br,"20.558,23","15.789,68"
+Sergio Donizetti Zorzo,3351-8610,http://lattes.cnpq.br/2523715806470871,zorzo@ufscar.br,"24.596,64","18.717,53"
+Valter Vieira de Camargo,3351-8616,http://lattes.cnpq.br/6809743774407662,valtervcamargo@ufscar.br,"20.343,37","13.610,44"
+Vânia Paula de Almeida Neris,3351-9493,http://lattes.cnpq.br/0268728255033469,vania@dc.ufscar.br,"19.560,93","13.170,80"
+Wanderley Lopes de Souza,3351-8599,http://lattes.cnpq.br/3742302894743620,desouza@ufscar.br,"24.550,88","28.614,21"
