@@ -1,2 +1,4 @@
 # Informações professores
-Programa em python que reúne as informações, como nome, telefone, lattes e email, dos professores do Departamento de Computação da UFSCar em um CSV 
+Programa em python que reúne as informações, como nome, telefone, lattes e email, dos professores do Departamento de Computação da UFSCar em um CSV.
+
+Caso queira somente as informações acima, basta executar somente até a penúltima célula. Porém, caso queira informações sobre a remuneração dos professores, é necessário utilizar a API do Portal da Transparência. Para utilizar essa API, precisa vincular sua conta gov.br [nesse link](https://portaldatransparencia.gov.br/api-de-dados/cadastrar-email). Após vincular a conta, o site te fornecerá uma chave de acesso, que deverá ser substituída no código na variável headers da última célula. Essa chave é pessoal e intransferível, por esse motivo não posso deixar minha chave no código, sendo necessário que cada pessoa insira a sua na hora de executar.
